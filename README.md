@@ -32,7 +32,7 @@ The target variable - 'AdoptionSpeed' - is constructed as follows:
 - 3: Pet was adopted between 31 and 90 days (2nd & 3rd month) after being listed.
 - 4: No adoption after 100 days of being listed. (There are no pets in this dataset that waited between 90 and 100 days).
 
-There were three supplementary files of data used:
+There were three supplementary files of data used. These files will be omitted from the final repo due to size restrictions of GitHub:
 
 - Images: each animal listing had at least one image associated with the pet, some with many more.  This file contains those images, with each file having the naming convention '{'PetID'}-{number of photo for the pet}.jpg'
 - Metadata: The metadata was the result of processing the images using Google Vision API. Once the images were read, a JSON file was generated for each image. Each file contains information on features that Google Vision detects from the image - characteristics of the photo, color annotations, and crop marking, each ranked in order of importance for the image. 
@@ -90,4 +90,3 @@ I will also explore using other evaluation metrics as accuracy may not be the be
  
  
 
-# capstone
