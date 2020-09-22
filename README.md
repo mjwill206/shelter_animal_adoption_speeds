@@ -1,4 +1,4 @@
-# Project 6: Predicting Adoption Speeds for Shelter Animals
+# Predicting Adoption Speeds for Shelter Animals
 #### Project completed by Matt Williams
 #### September 8th, 2020
  
@@ -86,8 +86,4 @@ The features that seemed to provide the most predictive power lie in the metadat
 Another step could be to account for the unbalanced class (adopted the same day). While most of the other categories were balanced, modeling may improve if I use some tool to artifically boost that category. 
 
 I will also explore using other evaluation metrics as accuracy may not be the best fit. 
- 
- 
- 
 
-# shelter_animal_adoption_speeds
