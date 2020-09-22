@@ -4,7 +4,7 @@
  
 ### Problem Statement:
 
-Each year, millions of pets worldwide end up in animal shelters.  In the US alone, an estimated 6.5 million pets are surrendered to shelters each year, and nearly 25% of them are not adopted.Our goal will be to identify factors that contribute to quicker adoption speeds, and attempt to build a model to predict how quickly shelter animals are adopted.
+Each year, millions of pets worldwide end up in animal shelters.  In the US alone, an estimated 6.5 million pets are surrendered to shelters each year, and nearly 25% of them are not adopted. Our goal will be to identify factors that contribute to quicker adoption speeds, and attempt to build a model to predict how quickly shelter animals are adopted.
  
 ---
 
